@@ -8,3 +8,4 @@ I will release a full english documentation soon.
 I hope you will appreciate it.
 
 
+![Screenshot 2024-06-17 130937](https://github.com/FullMonkeyy/SineLinear-Regressor-C/assets/144152021/393b8b71-031d-4d72-9db8-e4f9d0a91ed0)
