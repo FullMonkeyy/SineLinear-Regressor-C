@@ -1,5 +1,5 @@
 # SineLinear-Regressor-C++
-Hi,here you will find the code to develop a Machine Learning linear regressor model with an approximated function sine which lead the algorithm not to forget the error during the training.
+Hi,here you will find the code to develop a Machine Learning linear regressor model with an approximated sine function which lead the algorithm not to forget the error during the training.
 
 The program is completely coded in C language. Actually I wanted to show how also an low level programming language as C could be optimal for base machine learning programs.
 
