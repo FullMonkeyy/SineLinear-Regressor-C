@@ -1,12 +1,8 @@
 # SineLinear-Regressor-C++
-Hi,here you will find the code to develop a Machine Learning linear regressor model with an approximated sine function which lead the algorithm not to forget the error during the training.
-
-The program is completely coded in C language. Actually I wanted to show how also an low level programming language as C could be optimal for base machine learning programs.
-
-Beside, you will find also an documentation which is written in italian (this just becouse I'm italian too) where i wrote about the algorithm it self and not the code.
-I will release a full english documentation soon.
-I hope you will appreciate it.
-
+Welcome! This repository contains the C implementation of a custom Machine Learning linear regressor. The model integrates an approximated sine function designed to retain and manage error variance during the training phase.
+The project is coded completely from scratch in C to demonstrate that low-level programming languages can be highly effective and optimized for foundational machine learning tasks.
+Currently, the detailed documentation is available in Italian and focuses heavily on the underlying mathematical logic of the algorithm. A fully translated English documentation will be released soon.
+I hope you appreciate the work!
 
 ![Screenshot 2024-06-17 130937](https://github.com/FullMonkeyy/SineLinear-Regressor-C/assets/144152021/393b8b71-031d-4d72-9db8-e4f9d0a91ed0)
 
